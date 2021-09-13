@@ -19,7 +19,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/8M3XBrN.gif)
+![](https://i.imgur.com/hR1ffg9.gif)
+
 
 ### Notes
 It was challenging working with an API since this is my first time. But once I got an understanding of it the rest of the assignment went well.
